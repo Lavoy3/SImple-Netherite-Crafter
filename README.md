@@ -25,14 +25,11 @@ Enjoy the New Item: Once crafted, you can freely use the new item in your advent
 Crafting Recipe
 The crafting recipe for the new item is as follows:
 
-less
-[Crafting Pattern]
  
 ![image](https://github.com/Lavoy3/SImple-Netherite-Crafter/assets/118737799/3e03c535-5c3f-4c99-a227-9dcc18c56357)
 
 
-R = netherrack 
-A = nothing
+
 
 Permissions
 This datapack is open-source and free to use for personal and non-commercial purposes. You are allowed to modify, distribute, and use it without providing credit.
