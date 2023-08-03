@@ -27,12 +27,18 @@ The crafting recipe for the new item is as follows:
 
 less
 [Crafting Pattern]
+ 
  R R R
- R  R
+ 
+ 
+ R A R
+ 
+ 
  R R R
 
-Legend:
 R = netherrack 
+A = nothing
+
 Permissions
 This datapack is open-source and free to use for personal and non-commercial purposes. You are allowed to modify, distribute, and use it without providing credit.
 
@@ -42,5 +48,5 @@ Bug Reports and Contributions
 If you encounter any issues, bugs, or have suggestions for improvements, feel free to create an issue on the GitHub repository. Contributions to the project are welcome through pull requests.
 
 License
-This datapack is licensed under the MIT License. You are encouraged to review the license file for specific terms and conditions.
+This datapack is licensed under the Ms-PL License. You are encouraged to review the license file for specific terms and conditions.
 
