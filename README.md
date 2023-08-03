@@ -28,13 +28,8 @@ The crafting recipe for the new item is as follows:
 less
 [Crafting Pattern]
  
- R R R
- 
- 
- R A R
- 
- 
- R R R
+![image](https://github.com/Lavoy3/SImple-Netherite-Crafter/assets/118737799/3e03c535-5c3f-4c99-a227-9dcc18c56357)
+
 
 R = netherrack 
 A = nothing
