@@ -14,7 +14,7 @@ Download the Datapack: Download the latest release of the datapack from the GitH
 Install the Datapack:
 
 Locate your Minecraft world's "datapacks" folder.
-Copy the downloaded simple_recipe_datapack.zip file into the "datapacks" folder.
+Copy the downloaded simple_recipe_datapack.zip file into the "datapacks" folder and extract it!.
 Make sure the datapack is enabled in the world settings. (If you are using a server, you might need administrative privileges to enable datapacks.)
 Craft the New Item:
 
