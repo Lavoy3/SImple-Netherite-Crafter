@@ -26,8 +26,8 @@ Crafting Recipe
 The crafting recipe for the new item is as follows:
 
  
-![image](https://github.com/Lavoy3/SImple-Netherite-Crafter/assets/118737799/3e03c535-5c3f-4c99-a227-9dcc18c56357)
-
+![image](https://github.com/Lavoy3/SImple-Netherite-Crafter/assets/118737799/40d35ac1-8e76-47dd-a6e2-389c4e29d5bb)
+ 
 
 
 
