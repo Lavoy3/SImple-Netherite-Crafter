@@ -36,9 +36,9 @@ This datapack is open-source and free to use for personal and non-commercial pur
 
 Commercial Usage: If you intend to use this datapack for commercial purposes, such as selling or promoting it in any commercial capacity, you must provide appropriate credit to the original author.
 
-Bug Reports and Contributions
+Bug Reports and Contributions:
 If you encounter any issues, bugs, or have suggestions for improvements, feel free to create an issue on the GitHub repository. Contributions to the project are welcome through pull requests.
 
-License
+License:
 This datapack is licensed under the Ms-PL License. You are encouraged to review the license file for specific terms and conditions.
 
